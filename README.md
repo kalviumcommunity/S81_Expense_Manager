@@ -16,7 +16,7 @@ This app is going to be a user-friendly for a single person or a family to track
 
 ## Tech Stack:
 # Frontend:
--React
+-React.
 
 #Backend:
 - Node.js
@@ -25,3 +25,4 @@ This app is going to be a user-friendly for a single person or a family to track
 Firebase
 ## Why This Project
 This app idea is a common need for any individuals who can manage their personal expenses. And it will be helpful for our day to day life.
+----------------------------------------------------------------------------------------------------------------------------------------------------
